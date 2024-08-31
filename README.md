@@ -1,4 +1,4 @@
-# PARKY-BUG-BOT
+# Satoru-Bug-Bot
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
@@ -144,4 +144,4 @@ npm i -g forever && forever index.js && forever save && forever logs
  ## Remerciements
 
 Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **Satoru Bug Bot**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
-Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=100)](https://github.com/JEANPARKER100/PARKY-BUG-BOT) pour la création de la base de données utilisée par le bot **Satoru Bug Bot**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
+Un grand merci  a (https://github.com/JEANPARKER100/PARKY-BUG-BOT) pour la création de la base de données utilisée par le bot **Satoru Bug Bot**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
