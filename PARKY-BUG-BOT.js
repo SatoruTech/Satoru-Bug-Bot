@@ -2232,8 +2232,8 @@ break
 case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 break
-case 'Jeanparker':
-xeonimun('★彡[ᴄᴏᴇᴜʀ ꜱᴜʀ ᴛᴏɪ 🩵 ᴄʜᴇʀ \n ᴍᴇʀᴄɪ ᴅ,ᴜᴛɪʟɪꜱᴇʀ ᴍᴏɴ ʙᴜɢʙᴏᴛ  \n\n *ɴ,ᴏᴜʙʟɪᴇ ᴘᴀꜱ ᴅᴇ ᴛ,ᴀʙᴏɴɴᴇʀ À ᴍᴀ ᴄʜᴀÎɴᴇ ʏᴏᴜᴛᴜʙᴇ* \n _ʏᴏᴜᴛᴜʙᴇ ꜱᴇᴀʀᴄʜ ᴊᴇᴀɴ-ᴘᴀʀᴋᴇʀ-ᴛᴇᴄʜ ᴍᴇʀᴄɪ_ 🙏 😘]彡★')
+case 'SatoruTech':
+xeonimun('★彡[ᴄᴏᴇᴜʀ ꜱᴜʀ ᴛᴏɪ 🩵 ᴄʜᴇʀ \n ᴍᴇʀᴄɪ ᴅ,ᴜᴛɪʟɪꜱᴇʀ ᴍᴏɴ ʙᴜɢʙᴏᴛ  \n\n *ɴ,ᴏᴜʙʟɪᴇ ᴘᴀꜱ ᴅᴇ ᴛ,ᴀʙᴏɴɴᴇʀ À ᴍᴀ ᴄʜᴀÎɴᴇ ʏᴏᴜᴛᴜʙᴇ* \n _SatoruTech ᴍᴇʀᴄɪ_ 🙏 😘]彡★')
 break
             case 'menu':
             case 'help':
@@ -2369,7 +2369,7 @@ break
 ┃ 🩵 sᴏᴜɴᴅ1 - sᴏᴜɴᴅ161
 ╰═════════════════⊷
 
-> 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 ©`
+> SatoruTech ©`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
@@ -2377,7 +2377,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+                                thumbnailUrl: 'https://telegra.ph/bggoojosatorubugbot-08-31',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2395,7 +2395,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://telegra.ph/file/e5455ce7415bc9ab0068c.jpg',
+      thumbnailUrl: 'https://telegra.ph/bggoojosatorubugbot-08-31',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
