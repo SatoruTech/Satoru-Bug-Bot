@@ -47,7 +47,7 @@ sudo yarn global add pm2
 git clone https://github.com/SatoruTech/Satoru-Bug-Bot/  
 ```
 ```
-cd PARKY-BUG-BOT 
+cd Satoru-Bug-Bot
 yarn install 
 npm start
 ```
