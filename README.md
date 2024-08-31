@@ -16,7 +16,7 @@
 ### 5. <a href='https://replit.com/@SatoruTech/Satoru-Bug-Bot' target="_blank"><img alt='Deployer sur Replit' src='https://img.shields.io/badge/-DEPLOYER SUR REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>  
 
 ## Pour regarder des tutoriels.
-* [![YOUTUBE](https://img.shields.io/badge/COMMENT-DEPLOYER-red?style=for-the-badge&logo=youtube&logoColor=white) (https://www.youtube.com/@SatoruTech)
+* [![YOUTUBE](https://img.shields.io/badge/COMMENT-DEPLOYER-red?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/@SatoruTech)]
 
 
 </br>
