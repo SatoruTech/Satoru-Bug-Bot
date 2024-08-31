@@ -1,11 +1,11 @@
-//base by Jean Parker 
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: @Jean-parker-tech
-//Instagram: its_jeanparker
-//Telegram: t.me/Jeanparker100
-//GitHub: @Jeanparker100
-//WhatsApp: +22898133388
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-parker-tech
+//Satoru-Bug-Bot
+
+//[Code d’appariement](https://replit.com/@aubinbot/Parky-pair-code)
+//[GitHub](https://github.com/SatoruTech/Satoru-Bug-Bot)
+//[YouTube](https://youtube.com/@SatoruTech)
+//[Telegram](https://t.me/satorutech)
+
+// © 2024 SatoruTech. Tous droits réservés.
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -63,9 +63,9 @@ const ZipXeon = JSON.parse(fs.readFileSync('./database/autoreply/zip.json'))
 const ApkXeon = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
-const xtime = moment.tz('Africa/Togo').format('HH:mm:ss')
-        const xdate = moment.tz('Africa/Togo').format('DD/MM/YYYY')
-        const time2 = moment().tz('Africa/Togo').format('HH:mm:ss')  
+const xtime = moment.tz('Africa/Congo-Brazzaville').format('HH:mm:ss')
+        const xdate = moment.tz('Africa/Congo-Brazzaville').format('DD/MM/YYYY')
+        const time2 = moment().tz('Africa/Congo-Brazzaville').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var xeonytimewisher = `𝐁𝐨𝐧𝐧𝐞 𝐧𝐮𝐢𝐭 `
  }
