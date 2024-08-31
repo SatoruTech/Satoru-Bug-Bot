@@ -9,7 +9,7 @@
 
 ### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
 
-### 1. <a href="https://github.com/SatoruTech/Satoru-Bug-Bot/"><img title="WEB" src="https://img.shields.io/badge/FORK PARKY-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
+### 1. <a href="https://github.com/SatoruTech/Satoru-Bug-Bot/fork"><img title="WEB" src="https://img.shields.io/badge/Fork Satoru-Bug-Bot?color=black&style=for-the-badge&logo=stackshare"></a>
 ### 2. <a href="https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 ### 3. <a href="https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Clique ici si le pairing code 1 ne marche pas" width="90"></a>
 ### 4. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
