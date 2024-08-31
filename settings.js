@@ -5,7 +5,7 @@
 //[YouTube](https://youtube.com/@SatoruTech)
 //[Telegram](https://t.me/satorutech)
 
-© 2024 SatoruTech. Tous droits réservés.
+// © 2024 SatoruTech. Tous droits réservés.
 const fs = require('fs')
 const chalk = require('chalk')
 
